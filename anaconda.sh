@@ -1,6 +1,6 @@
 #! /bin/bash
 
-#download anaconda3-2022.10 with python 3.13
+#download anaconda3-2022.10 with python 3.13 in debian based systems
 
 sudo apt update
 sudo apt upgrade
